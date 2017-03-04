@@ -4,7 +4,7 @@
 <h5>My program: <https://mettezeuner.github.io/mini_ex4-/empty-example/><h5>
 
 
-![ScreenShot](https://github.com/MetteZeuner/mini_ex4-/blob/master/Wonder%20Ball.png)
+![ScreenShot](https://github.com/MetteZeuner/mini_ex4-/blob/gh-pages/Wonder%20Ball.png)
 
 <h3>Description<h3> 
 
