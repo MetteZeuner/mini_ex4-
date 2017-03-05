@@ -31,11 +31,7 @@ if(circle.x > width || circle.x < 0){
 if(circle.y > height || circle.y < 0){
     circle.ygo = circle.ygo * -1;
 }
-    
-if (mouseIsPressed){
-    circle.xgo = circle.xgo * -1;
-}
-
+   
     circle.x = circle.x + circle.xgo;
     circle.y = circle.y + circle.ygo;    
        
@@ -45,4 +41,6 @@ function mousePressed(){
     r = random(255);
     g = random(255);
     b = random(255);
+    
+    circle.xgo = circle.xgo * -1;
 }
