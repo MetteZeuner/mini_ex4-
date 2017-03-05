@@ -1,5 +1,5 @@
 # mini_ex4-
-<h1>Wonder Ball<h1>
+<h1>Wonder Ball (click the mouse and see what happens)<h1> 
 
 <h5>My program: <https://mettezeuner.github.io/mini_ex4-/empty-example/><h5>
 
