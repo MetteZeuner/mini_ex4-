@@ -13,7 +13,7 @@ function setup() {
 createCanvas(800, 400);
 r = random(255);
 g = random(255);
-b = random(255);
+b = random(255); //makes the circle a random colour every time the program starts. 
 }
 
 function draw() {
